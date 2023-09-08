@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+
+
+
+.center{
+    display: flex;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+    flex-wrap: wrap;
+}
+
+.about-header{
+    width: 100%;
+    background-color: red;
+
+}
+
+.about-header p{
+    color: white;
+    padding: 8px;
+
+}
+
+header h2 span{
+    color: red;
+}
+
+header h2{
+    font-size: 35px;
+    color: white;
+}
+
+.logo{
+    margin-top: 10px;
+}
+
+.wraper-header{
+    padding: 40px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.banner-ads{
+    width: 60%;
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+.banner-ads h2{
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    color: white;
+    font-size: 15px;
+    font font-style: italic;
+
+}
+
+.menu-main{
+    width: 100%;
+    background-color: blue;
+    padding: 8px;
+
+}
+
+.menu-main a{
+    display: inline-block;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.menu-main :hover{
+    text-decoration: underline;
+
+}
+
+.Rubiales{
+
+    width: 300px;
+}
+
+.Rubiales-1{
+    font-size: 15px;
+    color: white;
+    top: 600px ;
+    position: absolute;
+    left: 70px;
+
+
+}
+
+.china{
+
+    width: 500px;
+    left: 70px;
+    position: absolute;
+    top: 300px;
+}
+
+
+.sacy{
+    width: 500px;
+    left: 70px;
+    position: absolute;
+    top: 700px ;
+
+}
+
+.
+.Rubiales-2{
+    left: 70px;
+    top: 100px;
+    color: white;
+    position: absolute;
+
+     }
+                                    
+     .ppg{
+        font-size: 15px;
+        top: 1030px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+    
+     }
+
+     .eg{
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 1100px;
+
+     }
+
+     .evil{
+        font-size: 15px;
+        top: 1430px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+
+     }
+
+     .aspas{
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 1500px;
+
+
+     }
+
+     .ggaspas{
+        font-size: 15px;
+        top: 1830px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+
+
+     }
+
+     .zelzis{
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 1900px;
+
+
+
+          }
+
+     .ggzelzis{
+        font-size: 15px;
+        top: 2230px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+
+     }
+
+     .cleiteam{
+
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 2300px;
+    
+     }
+
+     .ggcleiteam{
+        font-size: 15px;
+        top: 2630px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+
+
+     }
+
+     
+
+
+

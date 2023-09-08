@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+
+
+.center{
+    display: flex;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+    flex-wrap: wrap;
+}
+
+.about-header{
+    width: 100%;
+    background-color:red;
+
+}
+
+.about-header p{
+    color: white;
+    padding: 8px;
+
+}
+
+header h2 span{
+    color:red;
+}
+
+header h2{
+    font-size: 35px;
+    color: whitess;
+}
+
+.logo{
+    margin-top: 10px;
+    color: white;
+}
+
+.wraper-header{
+    padding: 40px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.banner-ads{
+    width: 60%;
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+.banner-ads h2{
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    color: white;
+    font-size: 15px;
+    font font-style: italic;
+
+}
+
+.menu-main{
+    width: 100%;
+    background-color: red;
+    padding: 8px;
+
+}
+
+.menu-main a{
+    display: inline-block;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.menu-main :hover{
+    text-decoration: underline;
+
+}
+
+.Rubiales{
+
+    width: 300px;
+}
+
+.Rubiales-1{
+    font-size: 15px;
+    color: white;
+    top: 620px ;
+    position: absolute;
+    left: 70px;
+
+
+}
+
+.jjj{
+
+    width: 500px;
+    left: 70px;
+    position: absolute;
+}
+
+
+.ddd{
+    width: 500px;
+    left: 70px;
+    position: absolute;
+    top: 700px ;
+
+}
+
+
+
+     
+                                    
+     .ggddd{
+        font-size: 15px;
+        top: 1030px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+    
+     }
+
+     .humano{
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 1100px;
+
+     }
+
+     .ggh{
+        font-size: 15px;
+        top: 1380px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+
+     }
+
+     .mexico{
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 1500px;
+
+
+     }
+
+     .ggm{
+        font-size: 15px;
+        top: 1800px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+
+
+     }
+
+     .hamster{
+        width: 500px;
+        left: 70px;
+        position: absolute;
+        top: 1900px;
+
+
+
+          }
+
+     .ggt{
+        font-size: 15px;
+        top: 2200px;
+        position: absolute;
+        color: white;
+        left: 70px;
+
+    }
+
+
+
+
+
+
+
+
+
